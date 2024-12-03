@@ -12,9 +12,9 @@ Welcome to my GitHub profile! Here's a bit about me:
 - **Tools**: [web,spring,docker ]
 
 ## 📊 GitHub Stats
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=radical)
+![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=Yannnhu&show_icons=true&theme=radical)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=your-username&layout=compact&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Yannnhu&layout=compact&theme=radical)
 
 ## 🌐 Connect with Me
 - [📧 Email](mailto:funcopy@163.com)

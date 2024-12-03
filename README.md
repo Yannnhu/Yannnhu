@@ -22,6 +22,6 @@ Welcome to my GitHub profile! Here's a bit about me:
 
 ---
 
-> "Your favorite quote or motto."
+> "知行合一."
 
 Thanks for stopping by! Feel free to check out my repositories and reach out if you'd like to collaborate. 😄
